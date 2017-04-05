@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Tile</string>
+    <string name="action_settings">Settings</string>
+    <string name="tile_a_label">Tile A</string>
+    <string name="formatted_tile_a_label">Tile A %s</string>
+    <string name="tile_b_label">Tile B</string>
+    <string name="formatted_tile_b_label">Tile B %s</string>
+    <string name="active">active</string>
+    <string name="inactive">inactive</string>
+    <string name="tile_b_request_update_message">Use fab to update Tile B</string>
+</resources>
